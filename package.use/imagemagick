@@ -1,0 +1,1 @@
+media-gfx/imagemagick X bzip2 cxx fontconfig jpeg jpeg2k openmp png truetype zlib -corefonts -djvu -fftw -fpx -graphviz -hdri -heif -jbig -jpegxl -lcms -lqr -lzma -opencl -openexr -pango -perl -postscript -q8 -q32 -raw -static-libs -svg -test -tiff -webp -wmf -xml -zip

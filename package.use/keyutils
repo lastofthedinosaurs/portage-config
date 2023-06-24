@@ -1,0 +1,1 @@
+sys-apps/keyutils split-usr -static -static-libs -test

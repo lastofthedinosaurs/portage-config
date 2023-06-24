@@ -1,0 +1,17 @@
+www-client/firefox clang dbus eme-free geckodriver hardened hwaccel lto openh264 pgo pulseaudio selinux system-av1 system-harfbuzz system-icu system-jpeg system-libevent system-libvpx system-webp -debug -gmp-autoupdate -jack -libproxy -screencast -sndio -system-png -system-python-libs -wayland -wifi
+
+# required by www-client/firefox-102.7.0::gentoo[system-libvpx]
+# required by firefox (argument)
+>=media-libs/libvpx-1.12.0-r1 postproc
+# required by www-client/firefox-102.7.0::gentoo[system-png]
+# required by firefox (argument)
+>=media-libs/libpng-1.6.39 apng
+# required by www-client/firefox-102.7.0::gentoo[pgo]
+# required by firefox (argument)
+>=x11-base/xorg-server-21.1.6 xvfb
+# required by media-sound/pulseaudio-daemon-16.1-r6::gentoo[alsa,alsa-plugin]
+# required by media-libs/libpulse-16.1-r1::gentoo
+# required by media-sound/pulseaudio-16.1::gentoo
+# required by www-client/firefox-102.7.0::gentoo[pulseaudio]
+# required by firefox (argument)
+>=media-plugins/alsa-plugins-1.2.7.1 pulseaudio

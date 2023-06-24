@@ -1,0 +1,1 @@
+net-wireless/bluez btpclient cups deprecated mesh midi obex readline selinux udev -debug -doc -experimental -extra-tools -systemd -test -test-programs

@@ -1,0 +1,1 @@
+sys-apps/man-db manpager nls seccomp selinux zlib -static-libs

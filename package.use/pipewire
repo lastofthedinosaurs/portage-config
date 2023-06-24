@@ -1,0 +1,1 @@
+media-video/pipewire X dbus extra ffmpeg flatpak gsettings gstreamer lv2 readline ssl -bluetooth -doc -echo-cancel -jack-client -jack-sdk -modemmanager -pipewire-alsa -sound-server -system-service -systemd -test -v4l -zeroconf

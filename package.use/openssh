@@ -1,0 +1,1 @@
+net-misc/openssh X audit pam pie selinux ssl verify-sig -debug -kerberos -ldns -libedit -livecd -security-key -static -test -xmss

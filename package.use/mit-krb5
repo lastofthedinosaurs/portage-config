@@ -1,0 +1,1 @@
+app-crypt/mit-krb5 keyutils nls pkinit selinux threads -doc -lmdb -openldap -test -xinetd

@@ -1,0 +1,1 @@
+net-analyzer/wireshark capinfos captype dumpcap editcap filecaps gui http2 lto lz4 mergecap pcap plugins reordercap selinux smi sshdump ssl tfshark tshark udpdump zlib zstd

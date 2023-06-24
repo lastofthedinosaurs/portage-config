@@ -1,0 +1,1 @@
+app-crypt/pinentry X caps gtk ncurses verify-sig -efl -emacs -keyring -qt5 -wayland

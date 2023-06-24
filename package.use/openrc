@@ -1,0 +1,1 @@
+sys-apps/openrc audit bash ncurses netifrc pam selinux sysv-utils unicode -debug -newnet

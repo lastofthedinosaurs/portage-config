@@ -1,0 +1,1 @@
+net-misc/rsync acl iconv ssl verify-sig xattr -examples -lz4 -rrsync -stunnel -system-zlib -xxhash -zstd

@@ -1,0 +1,1 @@
+net-vpn/openvpn inotify lz4 lzo openssl pam plugins selinux -down-root -examples -iproute2 -mbedtls -pkcs11 -systemd -test

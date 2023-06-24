@@ -1,0 +1,13 @@
+app-editors/vim X acl crypt lua nls perl python selinux sound terminal vim-pager -cscope -debug -gpm -minimal -racket -ruby -tcl
+
+# required by x11-libs/gtk+-3.24.35::gentoo
+# required by x11-themes/adwaita-icon-theme-43_p1::gentoo
+>=x11-libs/cairo-1.17.6 X
+# required by media-libs/mesa-22.2.5::gentoo
+# required by media-libs/libepoxy-1.5.10-r1::gentoo[egl]
+# required by x11-libs/gtk+-3.24.35::gentoo
+# required by x11-themes/adwaita-icon-theme-43_p1::gentoo
+>=media-libs/libglvnd-1.6.0 X
+# required by app-editors/vim-9.0.1157::gentoo[vim-pager]
+# required by app-vim/gentoo-syntax-4::gentoo
+>=app-editors/vim-core-9.0.1157 -minimal

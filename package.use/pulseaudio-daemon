@@ -1,0 +1,1 @@
+media-sound/pulseaudio-daemon X alsa alsa-plugin asyncns bluetooth dbus elogind gdbm glib selinux ssl udev webrtc-aec -aptx -equalizer -fftw -gstreamer -jack -ldac -lirc -ofono-headset -orc -oss -sox -system-wide -systemd -tcpd -test -valgrind -zeroconf

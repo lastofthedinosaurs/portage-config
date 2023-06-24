@@ -1,0 +1,1 @@
+sys-fs/lvm2 lvm readline selinux udev -sanlock -static -static-libs -systemd -thin -valgrind

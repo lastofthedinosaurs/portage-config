@@ -1,0 +1,1 @@
+net-fs/nfs-utils caps libmount nfsidmap nfsv4 selinux uuid -junction -kerberos -ldap -nfsdcld -nfsv41 -sasl -tcpd

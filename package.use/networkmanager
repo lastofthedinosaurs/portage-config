@@ -1,0 +1,1 @@
+net-misc/networkmanager audit concheck elogind introspection iptables libedit lto modemmanager nss policykit selinux syslog tools wext wifi -bluetooth -connection-sharing -debug -dhclient -dhcpcd -gnutls -gtk-doc -iwd -nftables -ofono -ovs -ppp -psl -resolvconf -systemd -teamd -test -vala

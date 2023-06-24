@@ -1,0 +1,1 @@
+dev-lang/rust verify-sig -clippy -debug -dist -doc -llvm-libunwind -miri -nightly -parallel-compiler -profiler -rust-analyzer -rust-src -rustfmt -system-bootstrap -system-llvm -test
