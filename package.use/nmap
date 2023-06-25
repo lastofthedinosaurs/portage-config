@@ -1,1 +1,1 @@
-net-analyzer/nmap nse ipv6 libssh2 ncat ndiff nping ssl symlink verify-sig LUA_SINGLE_TARGET: -* lua5-3
+net-analyzer/nmap nse ipv6 libssh2 ncat ndiff nping ssl symlink verify-sig LUA_SINGLE_TARGET: -* lua5-4

@@ -1,4 +1,4 @@
-www-client/firefox clang dbus eme-free geckodriver hardened hwaccel lto openh264 pgo pulseaudio selinux system-av1 system-harfbuzz system-icu system-jpeg system-libevent system-libvpx system-webp -debug -gmp-autoupdate -jack -libproxy -screencast -sndio -system-png -system-python-libs -wayland -wifi
+www-client/firefox X clang dbus eme-free geckodriver hardened hwaccel jumbo-build lto openh264 pgo pulseaudio selinux system-av1 system-harfbuzz system-icu system-jpeg system-libevent system-libvpx system-webp -debug -gmp-autoupdate -jack -libproxy -screencast -sndio -system-png -system-python-libs -wayland -wifi
 
 # required by www-client/firefox-102.7.0::gentoo[system-libvpx]
 # required by firefox (argument)

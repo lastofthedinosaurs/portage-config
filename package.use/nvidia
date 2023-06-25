@@ -1,1 +1,1 @@
-x11-drivers/nvidia-drivers X modules tools
+x11-drivers/nvidia-drivers X modules modules-sign static-libs strip tools -wayland
