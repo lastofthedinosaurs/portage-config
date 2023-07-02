@@ -47,3 +47,4 @@ x11-libs/libXrender  abi_x86_32
 x11-libs/libxshmfence  abi_x86_32
 x11-libs/libXxf86vm  abi_x86_32
 sys-libs/libselinux abi_x86_32
+dev-libs/libpcre2 abi_x86_32

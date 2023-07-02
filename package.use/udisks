@@ -1,9 +1,1 @@
 sys-fs/udisks acl daemon elogind introspection lvm nls selinux vdo -debug -systemd -zram
-
-# required by sys-fs/udisks-2.9.4-r1::gentoo
-# required by udisks (argument)
->=sys-libs/libblockdev-2.28 lvm
-# required by sys-fs/udisks-2.9.4-r1::gentoo
-# required by @selected
-# required by @world (argument)
->=sys-libs/libblockdev-2.28 vdo

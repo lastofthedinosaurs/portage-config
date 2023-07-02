@@ -1,8 +1,1 @@
 dev-vcs/git blksha1 curl cvs gpg highlight iconv mediawiki nls pcre perl safe-directory selinux tk webdav -cgi -doc -keyring -perforce -subversion -test -xinetd
-
-# required by app-admin/setools-4.4.0-r3::gentoo[X]
-# required by sys-apps/selinux-python-3.4::gentoo[-test]
-# required by sys-apps/policycoreutils-3.4::gentoo
-# required by @system
-# required by @world (argument)
->=dev-python/PyQt5-5.15.7 widgets gui

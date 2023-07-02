@@ -1,5 +1,1 @@
 media-sound/ncmpcpp clock lto outputs taglib
-
-# required by media-sound/ncmpcpp-0.9.2-r2::gentoo
-# required by media-sound/ncmpcpp (argument)
->=dev-libs/boost-1.81.0-r1 icu

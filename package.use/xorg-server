@@ -1,10 +1,1 @@
 x11-base/xorg-server elogind selinux suid udev xcsecurity xorg xvfb -debug -minimal -systemd -test -unwind -xephyr -xnest
-
-# required by x11-base/xorg-drivers-21.1-r2::gentoo[input_devices_evdev,-input_devices_libinput]
->=x11-base/xorg-server-21.1.6 udev
-# required by x11-base/xorg-server-21.1.6::gentoo[elogind]
-# required by @selected
-# required by @world (argument)
->=sys-auth/pambase-20220214 elogind
-
-

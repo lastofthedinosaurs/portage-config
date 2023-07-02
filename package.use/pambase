@@ -1,1 +1,1 @@
-sys-auth/pambase caps elogind minimal nullok passwdqc securetty selinux sha512 -debug -gnome-keyring -homed -mktemp -pam_krb5 -pam_ssh -pwhistory -pwquality -systemd -yescrypt
+sys-auth/pambase caps elogind -minimal nullok passwdqc securetty selinux sha512 -debug -gnome-keyring -homed -mktemp -pam_krb5 -pam_ssh -pwhistory -pwquality -systemd -yescrypt

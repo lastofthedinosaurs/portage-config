@@ -1,1 +1,1 @@
-media-libs/mesa X gles2 llvm proprietary-codecs selinux vulkan zstd -d3d9 -debug -gles1 -lm-sensors -opencl -osmesa -test -unwind -vaapi -valgrind -vdpau -vulkan-overlay -wayland -xa -zink
+media-libs/mesa X -d3d9 gles2 gles1 gles2 llvm lm-sensors opencl osmesa proprietary-codecs selinux vdpau vulkan xa zink zstd -debug -test -wayland -xa -zink

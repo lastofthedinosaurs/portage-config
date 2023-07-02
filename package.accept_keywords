@@ -1,0 +1,25 @@
+app-admin/ansible-modules-hashivault ~amd64
+games-util/esteam ~amd64
+games-util/game-device-udev-rules ~amd64
+# dependency required by app-admin/ansible-modules-hashivault
+# dependency required by app-admin/ansible-modules-hashivault
+dev-python/hvac ~amd64
+media-fonts/iosevka ~amd64
+x11-libs/libfm ~amd64
+lxde-base/lxrandr ~amd64
+sys-cluster/minikube ~amd64
+app-containers/nvidia-container-toolkit ~amd64
+sys-libs/libnvidia-container ~amd64
+app-admin/nvidia-docker ~amd64
+x11-misc/pcmanfm ~amd64
+sys-boot/plymouth-openrc-plugin ~amd64
+# dependency required by dev-python/hvac
+# dependency required by app-admin/ansible-modules-hashivault
+# dependency required by app-admin/ansible-modules-hashivault
+dev-python/pyhcl ~amd64
+games-util/steam-meta ~amd64
+games-util/steam-client-meta ~amd64
+games-util/steam-launcher ~amd64
+app-editors/vscodium ~amd64
+# required by steam
+*/*::steam-overlay

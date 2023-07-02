@@ -1,4 +1,0 @@
-# dependency required by dev-python/hvac
-# dependency required by app-admin/ansible-modules-hashivault
-# dependency required by app-admin/ansible-modules-hashivault
-dev-python/pyhcl ~amd64

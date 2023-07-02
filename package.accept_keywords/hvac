@@ -1,3 +1,0 @@
-# dependency required by app-admin/ansible-modules-hashivault
-# dependency required by app-admin/ansible-modules-hashivault
-dev-python/hvac ~amd64

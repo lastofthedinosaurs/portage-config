@@ -1,0 +1,8 @@
+www-client/google-chrome google-chrome
+app-arch/unrar unRAR
+sys-kernel/linux-firmware @BINARY-REDISTRIBUTABLE
+sys-firmware/intel-microcode intel-ucode
+media-fonts/nerd-fonts Vic-Fieger-License
+x11-drivers/nvidia-drivers NVIDIA-r2
+app-admin/nvidia-docker NVIDIA CORPORATION
+games-util/steam-launcher ValveSteamLicense
