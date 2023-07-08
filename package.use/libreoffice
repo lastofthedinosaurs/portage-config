@@ -1,1 +1,1 @@
-app-office/libreoffice base branding cups dbus gstreamer gtk java mariadb pdfimport postgres vulkan -accessibility -bluetooth -clang -coinmp -custom-cflags -debug -eds -firebird -googledrive -kde -ldap -odk -test -valgrind
+app-office/libreoffice branding cups dbus gstreamer gtk java mariadb pdfimport postgres vulkan -accessibility -base -bluetooth -clang -coinmp -custom-cflags -debug -eds -firebird -googledrive -kde -ldap -odk -test -valgrind PYTHON_SINGLE_TARGET: -* python3_11

@@ -1,0 +1,1 @@
+media-libs/lilv -doc -python -test -tools PYTHON_SINGLE_TARGET: -* python3_11

@@ -1,1 +1,1 @@
-app-editors/vim X acl crypt lua nls perl python selinux sound terminal vim-pager -cscope -debug -gpm -minimal -racket -ruby -tcl
+app-editors/vim X acl crypt lua nls perl python selinux sound terminal vim-pager -cscope -debug -gpm -minimal -racket -ruby -tcl PYTHON_SINGLE_TARGET: -* python3_11

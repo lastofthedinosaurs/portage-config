@@ -7,3 +7,8 @@ net-firewall/xtables-addons ipv4options
 # required by media-gfx/gimp-2.10.34-r1::gentoo
 # required by gimp (argument)
 >=media-libs/gegl-0.4.44 cairo
+# required by x11-misc/xdg-utils-1.1.3_p20210805-r1::gentoo
+# required by app-office/libreoffice-7.5.3.2::gentoo
+# required by @selected
+# required by @world (argument)
+>=app-text/xmlto-0.0.28-r10 text
