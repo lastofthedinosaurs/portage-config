@@ -1,1 +1,0 @@
-sys-apps/net-tools arp hostname nls selinux -ipv6 -nis -plipconfig -slattach -static

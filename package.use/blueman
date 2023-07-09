@@ -1,1 +1,0 @@
-net-wireless/blueman nls policykit pulseaudio -network PYTHON_SINGLE_TARGET: -* python3_11

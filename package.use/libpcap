@@ -1,1 +1,0 @@
-net-libs/libpcap dbus verify-sig -bluetooth -netlink -rdma -remote -static-libs -test -usb -yydebug

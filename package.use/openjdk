@@ -1,1 +1,0 @@
-dev-java/openjdk alsa cups jbootstrap selinux system-bootstrap -big-endian -debug -doc -examples -headless-awt -javafx -lto -source -systemtap

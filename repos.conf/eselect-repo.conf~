@@ -1,11 +1,6 @@
 # created by eselect-repo
 
 
-[steam-overlay]
-location = /var/db/repos/steam-overlay
-sync-type = git
-sync-uri = https://github.com/gentoo-mirror/steam-overlay.git
-
 
 [gentoo-zh]
 location = /var/db/repos/gentoo-zh
@@ -16,3 +11,25 @@ sync-uri = https://github.com/gentoo-mirror/gentoo-zh.git
 location = /var/db/repos/darkelf
 sync-type = git
 sync-uri = https://github.com/gentoo-mirror/darkelf.git
+
+[steam-overlay]
+location = /var/db/repos/steam-overlay
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/steam-overlay.git
+
+[activehome]
+location = /var/db/repos/activehome
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/activehome.git
+
+
+[akater]
+location = /var/db/repos/akater
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/akater.git
+
+
+[alatar-lay]
+location = /var/db/repos/alatar-lay
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/alatar-lay.git

@@ -1,1 +1,0 @@
-net-print/cups X acl dbus pam selinux ssl -debug -kerberos -openssl -static-libs -systemd -test -usb -xinetd -zeroconf

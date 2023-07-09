@@ -1,1 +1,0 @@
-app-admin/syslog-ng geoip2 -amqp -dbi -http -ipv6 -json -kafka -mongodb -pacct -python -redis -smtp -snmp -spoof-source -systemd -tcpd -test

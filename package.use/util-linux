@@ -1,1 +1,0 @@
-sys-apps/util-linux audit caps cramfs hardlink logger ncurses nls pam readline selinux split-usr su suid tty-helpers udev unicode verify-sig -build -cryptsetup -fdformat -kill -magic -python -rtas -slang -static-libs -systemd -test

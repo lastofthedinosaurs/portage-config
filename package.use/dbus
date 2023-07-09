@@ -1,1 +1,0 @@
-sys-apps/dbus X elogind selinux -debug -doc -static-libs -systemd -test -valgrind

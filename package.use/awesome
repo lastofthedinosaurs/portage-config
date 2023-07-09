@@ -1,1 +1,1 @@
-x11-wm/awesome dbus -doc -gnome -test LUA_SINGLE_TARGET: -* lua5-3
+x11-wm/awesome dbus LUA_SINGLE_TARGET: -* lua5-3

@@ -1,1 +1,1 @@
-x11-drivers/nvidia-drivers X -kernel-open modules modules-sign static-libs strip tools -wayland
+x11-drivers/nvidia-drivers modules modules-sign static-libs strip tools

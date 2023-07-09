@@ -1,1 +1,0 @@
-dev-db/postgresql kerberos nls pam perl python readline selinux server ssl threads uuid zlib -debug -doc -icu -ldap -llvm -lz4 -static-libs -systemd -tcl -xml -zstd PYTHON_SINGLE_TARGET: -* python3_11

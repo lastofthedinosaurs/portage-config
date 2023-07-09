@@ -1,1 +1,0 @@
-media-gfx/fontforge X gtk jpeg python readline -doc -gif -png -svg -test -tiff -truetype-debugger -woff2 PYTHON_SINGLE_TARGET: -* python3_11

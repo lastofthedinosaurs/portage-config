@@ -1,1 +1,0 @@
-app-crypt/gnupg bzip2 nls readline selinux ssl verify-sig -doc -ldap -smartcard -test -tofu -tools -usb -user-socket -wks-server

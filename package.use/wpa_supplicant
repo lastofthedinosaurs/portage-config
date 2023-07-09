@@ -1,1 +1,0 @@
-net-wireless/wpa_supplicant crda dbus fils hs2-0 mbo mesh readline selinux -ap -broadcom-sta -eap-sim -eapol-test -fasteap -macsec -p2p -privsep -ps3 -qt5 -smartcard -tdls -tkip -uncommon-eap-types -wep -wimax -wps

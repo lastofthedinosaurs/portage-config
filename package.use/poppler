@@ -1,1 +1,0 @@
-app-text/poppler cairo cxx introspection jpeg jpeg2k lcms png utils verify-sig -boost -cjk -curl -debug -doc -nss -qt5 -test -tiff

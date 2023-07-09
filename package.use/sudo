@@ -1,1 +1,0 @@
-app-admin/sudo nls offensive pam secure-path selinux sendmail ssl verify-sig -gcrypt -ldap -sasl -skey -sssd

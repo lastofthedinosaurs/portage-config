@@ -1,1 +1,0 @@
-dev-libs/gobject-introspection -doctool -gtk-doc -test PYTHON_SINGLE_TARGET: -* python3_11

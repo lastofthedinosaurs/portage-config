@@ -1,1 +1,0 @@
-sys-devel/clang pie static-analyzer verify-sig -debug -doc -extra -ieee-long-double -test -xml PYTHON_SINGLE_TARGET: -* python3_11

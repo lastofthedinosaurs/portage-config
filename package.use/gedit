@@ -1,1 +1,0 @@
-app-editors/gedit python -gtk-doc PYTHON_SINGLE_TARGET: -* python3_11
