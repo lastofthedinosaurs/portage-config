@@ -23,3 +23,5 @@ games-util/steam-launcher ~amd64
 app-editors/vscodium ~amd64
 # required by steam
 */*::steam-overlay
+dev-libs/libgcrypt-compat ~amd64
+sys-libs/libudev-compat ~amd64

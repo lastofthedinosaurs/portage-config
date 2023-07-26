@@ -17,19 +17,26 @@ location = /var/db/repos/steam-overlay
 sync-type = git
 sync-uri = https://github.com/gentoo-mirror/steam-overlay.git
 
-[activehome]
-location = /var/db/repos/activehome
+
+
+
+[audio-overlay]
+location = /var/db/repos/audio-overlay
 sync-type = git
-sync-uri = https://github.com/gentoo-mirror/activehome.git
+sync-uri = https://github.com/gentoo-mirror/audio-overlay.git
 
 
-[akater]
-location = /var/db/repos/akater
+[multilib-portage]
+location = /var/db/repos/multilib-portage
 sync-type = git
-sync-uri = https://github.com/gentoo-mirror/akater.git
+sync-uri = https://github.com/gentoo-mirror/multilib-portage.git
 
-
-[alatar-lay]
-location = /var/db/repos/alatar-lay
+[zugaina]
+location = /var/db/repos/zugaina
 sync-type = git
-sync-uri = https://github.com/gentoo-mirror/alatar-lay.git
+sync-uri = https://github.com/gentoo-mirror/zugaina.git
+
+[gamerlay]
+location = /var/db/repos/gamerlay
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/gamerlay.git

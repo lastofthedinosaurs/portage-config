@@ -1,1 +1,1 @@
-dev-libs/libsodium asm urandom -minimal -static-libs -verify-sig
+dev-libs/libsodium asm urandom -minimal -static-libs 

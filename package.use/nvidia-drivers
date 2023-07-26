@@ -1,1 +1,1 @@
-x11-drivers/nvidia-drivers modules modules-sign static-libs strip tools
+x11-drivers/nvidia-drivers modules static-libs strip tools
